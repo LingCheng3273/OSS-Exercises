@@ -1,1 +1,1 @@
-We are now happy ... at least a little bit.
+We are now happier!
