@@ -1,1 +1,1 @@
-This is a new file.
+We are now happy ... at least a little bit.
