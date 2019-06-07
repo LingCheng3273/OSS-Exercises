@@ -1,5 +1,9 @@
 # Open_IO - Ling
-
+Number of contributors: 5
+Number of lines of code: 
+First commit: 
+Latest commit: 
+Current branches: 
 
 # Organizer
 
