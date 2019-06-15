@@ -28,9 +28,9 @@ zacknawrocki-patch-2
 
 zacknawrocki-patch-1
 
-[gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
+![gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
 
-[gource](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gource.png)
+![gource](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gource.png)
 
 # Organizer
 4 Contributors
