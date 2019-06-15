@@ -1,4 +1,4 @@
-# Open_IO - Ling
+# Open_IO
 
 Number of contributors: 5
 
