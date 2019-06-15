@@ -49,6 +49,8 @@ Current Branches: dev, dummy, master
 
 ![gitstats:](https://github.com/Riantix/Lab03/blob/master/gitStats.png)
 
+The lines of code is different (42703 vs 20560 from gitstats). However, the rest is the same including the total commits, contributors (gitstats says 5 authors, while github says 4 contributors which makes 5 including author).
+
 ![gource](https://github.com/Riantix/Lab03/blob/master/OrganizerGource.png)
 
 # p5.js
