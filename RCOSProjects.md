@@ -117,6 +117,6 @@ Title: "not sure"
 Date: April 13, 2019  
 #### Gitstats
 [gitstats](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-03/resources/outputpath/lines.html)  
-The dates are the same, but the lines and authors are different.
+The dates are the same, but the lines and authors are different. There are much fewer lines, and less contributors on gitstats. 
 #### Gource
 [gource](https://youtu.be/NshDv0wYLmE)  
