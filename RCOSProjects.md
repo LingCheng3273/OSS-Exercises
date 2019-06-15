@@ -17,10 +17,15 @@ Latest commit:
 "Merge pull request #46 from gibboa/zacknawrocki-patch-5" by gibboa on Apr 25, 2019
 
 Current branches: 
+
 zacknawrocki-patch-5
+
 zacknawrocki-patch-4
+
 zacknawrocki-patch-3
+
 zacknawrocki-patch-2
+
 zacknawrocki-patch-1
 
 [gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
