@@ -1,9 +1,31 @@
 # Open_IO - Ling
+
 Number of contributors: 5
-Number of lines of code: 
+
+Number of lines of code: 277846
+
 First commit: 
-Latest commit: 
+
+d99a79e633e9aa524d0994c419f9f1bb25e55f84 
+
+"Initial commit" by gibboa on Mar 12, 2019
+
+Latest commit:
+
+5d6390cf3ddc5eb20f0cc7f7d542c87e1b8c0f42
+
+"Merge pull request #46 from gibboa/zacknawrocki-patch-5" by gibboa on Apr 25, 2019
+
 Current branches: 
+zacknawrocki-patch-5
+zacknawrocki-patch-4
+zacknawrocki-patch-3
+zacknawrocki-patch-2
+zacknawrocki-patch-1
+
+[gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
+
+[gource](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gource.png)
 
 # Organizer
 4 Contributors
@@ -69,7 +91,7 @@ Heres the total output:
 [gitstats](https://github.com/shailpatels/oss-repo-template/blob/master/labs/lab-03/out/index.html)
 
 
-![gource](gource.png)
+![gource](https://github.com/shailpatels/oss-repo-template/blob/master/labs/lab-03/gource.png)
 
 
 # Petitions
