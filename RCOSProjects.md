@@ -28,9 +28,9 @@ zacknawrocki-patch-2
 
 zacknawrocki-patch-1
 
-![gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
+[gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
 
-![gource](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gource.png)
+[gource](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gource.png)
 
 # Organizer
 4 Contributors
@@ -47,9 +47,9 @@ a07dbebd29ebfd899104b9ed30055ad1e23522d1 -- Last commit.
 
 Current Branches: dev, dummy, master
 
-[gitstats:](https://github.com/Riantix/Lab03/blob/master/gitStats.png)
+![gitstats:](https://github.com/Riantix/Lab03/blob/master/gitStats.png)
 
-[gource](https://github.com/Riantix/Lab03/blob/master/OrganizerGource.png)
+![gource](https://github.com/Riantix/Lab03/blob/master/OrganizerGource.png)
 
 # p5.js
 64 Contributors
