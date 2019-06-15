@@ -49,6 +49,8 @@ Current Branches: dev, dummy, master
 
 [gitstats:](https://github.com/Riantix/Lab03/blob/master/gitStats.png)
 
+[gource](https://github.com/Riantix/Lab03/blob/master/OrganizerGource.png)
+
 # p5.js
 64 Contributors
 - 225319 Lines of Code
